@@ -1,5 +1,3 @@
-package overcrowdedelevators;
-//My partner for this project is Olivia Oviedo
 public class Person 
 {
     private String name;
