@@ -1,5 +1,3 @@
-package overcrowdedelevators;
-//My partner for this project is Olivia Oviedo
 import java.util.ArrayList;
 
 public class Elevator 
