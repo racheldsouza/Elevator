@@ -1,8 +1,5 @@
-package overcrowdedelevators;
-//My partner for this project is Olivia Oviedo
-
 import java.util.Scanner;
-public class PartnerLab1 
+public class App 
 {
     public static void main(String[] args) throws Exception
     {
